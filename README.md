@@ -35,7 +35,7 @@ If you want to buy this board and are in Taiwan, please visit my shop:
 Will OPEN SOON:
 * [HECS SHOP](https://www.)
 
-
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X-New%20Updata.png)
 ![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_1.png)
 ![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_2.png)
 ![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_3.png)
