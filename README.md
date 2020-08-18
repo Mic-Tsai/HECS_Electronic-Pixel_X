@@ -20,21 +20,15 @@ _If you intresting how it work please refer for detail:_
 
 **HECS Electronics (https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing).**
 
-
 ## 
+
 ```
->Arduino tool kit, and require following material:
-
->>MCU: ATmega328p
-
->>Storage: SD card
-
->>Display: SK6812B-3535
-
->>Power source: Li-Po Battery
+Arduino tool kit, and require following material:
+MCU: ATmega328p
+Storage: SD card
+Display: SK6812B-3535
+Power source: Li-Po Battery
 ```
-
-
 
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
