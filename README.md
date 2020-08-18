@@ -1,6 +1,4 @@
-HECS Electronic | Pixel-X
-==============================================
-
+#HECS Electronic | Pixel-X
 ## Light Painting Equipment
 
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
@@ -35,12 +33,11 @@ Arduino tool kit, and require following material:
 - Power source: Li-Po Battery
 ```
 
-## 
-
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
 Will OPEN SOON:
 * [HECS SHOP](https://www.)
+* Contact me via mail (xbcke12345@gmail.com)
 
 ## 
 ![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X-New%20Updata.png)
