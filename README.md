@@ -11,17 +11,17 @@ This was my college side project during 2013-2014 in KUAS (National Kaohsiung Un
 
 Director of HECS, design light painting product which contain hardware layout and software programming.
 
-- Resume (https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view)
+- [Resume](https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view)
 
 ### **About HECS**
 
-If you intresting how it work please refer for detail:
+Intresting how it work please refer for detail:
 
-- HECS ISSUU(https://issuu.com/home/published/hecs_book)
+- [HECS ISSUU](https://issuu.com/home/published/hecs_book)
 
-- HECS ISSUU moble device (https://issuu.com/home/published/hecs-book_issuu)
+- [HECS ISSUU moble device](https://issuu.com/home/published/hecs-book_issuu)
 
-- HECS Electronics (https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
+- [HECS Electronics](https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
 ## 
 
