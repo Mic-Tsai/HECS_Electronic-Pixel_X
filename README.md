@@ -23,11 +23,12 @@ _If you intresting how it work please refer for detail:_
 ## 
 
 ```
-Arduino tool kit, and require following material:
-MCU: ATmega328p
-Storage: SD card
-Display: SK6812B-3535
-Power source: Li-Po Battery
+*Arduino tool kit, and require following material:
+
+*MCU: ATmega328p
+*Storage: SD card
+*Display: SK6812B-3535
+*Power source: Li-Po Battery
 ```
 
 If you want to buy this board and are in Taiwan, please visit my shop: 
