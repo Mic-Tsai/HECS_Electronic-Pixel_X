@@ -7,18 +7,23 @@ This was my college side project during 2013-2014 in KUAS (National Kaohsiung Un
 
 2017 - Re-engineering hardware part, split the core as controller and display, purpose to minimum PCB after-assemble space. LEDs used the improved version SK6812B-3535 (package) from WS2812B-5050, got better heat radiating, smaller dot will increase the image resolution.
 
+## 
 
 ### **About Mic**
 
 Director of HECS, design light painting product which contain hardware layout and software programming.
 
-_If you intresting how it work please refer for detail:_
+- Resume (https://drive.google.com/file/d/1NEWwNo3X4ogJMNzp6jpFyT0a6GPGhs7Q/view)
 
-**HECS ISSUU(https://issuu.com/home/published/hecs_book).**
+### **About HECS**
 
-**HECS ISSUU moble device (https://issuu.com/home/published/hecs-book_issuu).**
+If you intresting how it work please refer for detail:
 
-**HECS Electronics (https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing).**
+- HECS ISSUU(https://issuu.com/home/published/hecs_book)
+
+- HECS ISSUU moble device (https://issuu.com/home/published/hecs-book_issuu)
+
+- HECS Electronics (https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
 ## 
 
@@ -30,11 +35,14 @@ Arduino tool kit, and require following material:
 - Power source: Li-Po Battery
 ```
 
+## 
+
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
 Will OPEN SOON:
 * [HECS SHOP](https://www.)
 
+## 
 ![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X-New%20Updata.png)
 ![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_1.png)
 ![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_2.png)
