@@ -22,7 +22,7 @@ _If you intresting how it work please refer for detail:_
 
 
 ## 
-
+```
 >Arduino tool kit, and require following material:
 
 >>MCU: ATmega328p
@@ -32,6 +32,7 @@ _If you intresting how it work please refer for detail:_
 >>Display: SK6812B-3535
 
 >>Power source: Li-Po Battery
+```
 
 
 
@@ -41,17 +42,18 @@ Will OPEN SOON:
 * [HECS SHOP](https://www.)
 
 
-![*HECS Electronic | Pixel-X*]()
-![*HECS Electronic | Pixel-X*]()
-![*HECS Electronic | Pixel-X*]()
-![*HECS Electronic | Pixel-X*]()
-![*HECS Electronic | Pixel-X*]()
-![*HECS Electronic | Pixel-X*]()
-![*HECS Electronic | Pixel-X*]()
-![*HECS Electronic | Pixel-X*]()
-![*HECS Electronic | Pixel-X*]()
-![*HECS Electronic | Pixel-X*]()
-![*HECS Electronic | Pixel-X*]()
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_1.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_2.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_3.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_4.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_5.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_6.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_7.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_8.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_9.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_10.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_Main_Control_v11-1.png)
+![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X_Display_v1_sk6812b-mini-3535.png)
 ## 
 
 ## License Information
