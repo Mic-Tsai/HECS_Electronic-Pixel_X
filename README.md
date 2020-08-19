@@ -8,8 +8,10 @@ We are a visual team of POI arty performers. Design and develop the light-painti
 
 This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
 
-**2017 | Pixel-X | Re-engineering hardware part, split the core as controller and display, purpose to minimum PCB after-assemble space. LEDs used the improved version SK6812B-3535 (package) from WS2812B-5050, got better heat radiating, the smaller dot will increase the image resolution.**
+**2017 | Pixel-X |**
 
+  **Re-engineering hardware part, split the core as controller and display, purpose to minimum PCB after-assemble space. LEDs used the improved version SK6812B-3535 (package) from WS2812B-5050, got better heat radiating, the smaller dots will increase the image resolution.**
+  
 ## 
 
 ### **About Mic**
