@@ -33,9 +33,9 @@ Director of HECS, design light painting product that contains hardware layout an
 
 Interesting how it work please refer for detail:
 
-- [HECS ISSUU](https://issuu.com/home/published/hecs_book)
+- [HECS ISSUU](https://issuu.com/56905554/docs/hecs_book)
 
-- [HECS ISSUU moble device](https://issuu.com/home/published/hecs-book_issuu)
+- [HECS ISSUU moble device](https://issuu.com/56905554/docs/hecs-book_issuu)
 
 - [HECS Electronics](https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
