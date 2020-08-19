@@ -11,7 +11,15 @@ This was my college side project during 2013-2014 in KUAS (National Kaohsiung Un
 **2017 | Pixel-X**
 
   **Re-engineering hardware part, split the core as controller and display, purpose to minimum PCB after-assemble space. LEDs used the improved version SK6812B-3535 (package) from WS2812B-5050, got better heat radiating, the smaller dots will increase the image resolution.**
-  
+
+```
+Arduino tool kit, and require the following material:
+- MCU: ATmega328p
+- Storage: SD card
+- Display: SK6812B-3535
+- Power source: Li-Po Battery
+``` 
+
 ## 
 
 ### **About Mic**
@@ -30,15 +38,7 @@ Interesting how it work please refer for detail:
 
 - [HECS Electronics](https://drive.google.com/file/d/1tgr780FQ_Ib0JO3FdQn_M6LVbDeVmUmG/view?usp=sharing)
 
-## 
-
-```
-Arduino tool kit, and require the following material:
-- MCU: ATmega328p
-- Storage: SD card
-- Display: SK6812B-3535
-- Power source: Li-Po Battery
-```
+### **About Hardware**
 
 If you want to buy this board and are in Taiwan, please visit my shop: 
 
