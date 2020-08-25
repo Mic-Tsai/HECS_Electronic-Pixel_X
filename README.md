@@ -3,6 +3,10 @@
 # HECS Electronic | Pixel-X
 ## Light Painting Equipment
 
+[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=6AA97KE54UJR4)
+
+[![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 We are a visual team of POI arty performers. Design and develop the light-painting equipment which contains picture & dynamic presentation.
 - [Promotional Video](https://youtu.be/c2NhDoxItCM)
 
