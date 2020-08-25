@@ -49,6 +49,10 @@ If you want to buy this board and are in Taiwan, please visit my shop:
 Will OPEN SOON:
 * [HECS SHOP](https://www.)
 * Contact me via mail (xbcke12345@gmail.com)
+* If this project helping. Please generously support =)
+
+   [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
+
 
 ## 
 ![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X-New%20Updata.png)
