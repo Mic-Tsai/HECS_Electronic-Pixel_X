@@ -3,18 +3,17 @@
 ## HECS Electronic | Pixel-X
 ### Light Painting Equipment
 
-
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/mictsai?locale.x=zh_TW)
 
-We are a visual team of POI arty performers. Design and develop the light-painting equipment which contains picture & dynamic presentation.
-- [Promotional Video](https://youtu.be/c2NhDoxItCM)
+2013 | HECS
 
-This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan)
+We are a visual team of POI arty performers. Design and develop the light-painting equipment which contains picture & dynamic presentation. This was my college side project during 2013-2014 in KUAS (National Kaohsiung University of Applied Sciences, Taiwan).
+
+- [Promotional Video](https://youtu.be/c2NhDoxItCM)
 
 **2017 | Pixel-X**
 
   **Re-engineering hardware part, split the core as controller and display, purpose to minimum PCB after-assemble space. LEDs used the improved version SK6812B-3535 (package) from WS2812B-5050, got better heat radiating, the smaller dots will increase the image resolution.**
-
 
 ```
 Arduino tool kit, and require the following material:
