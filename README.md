@@ -1,6 +1,6 @@
 ![*HECS Electronic | Pixel-X*](https://github.com/Mic-Tsai/HECS_Electronic-Pixel_X/blob/master/res/Pixel-X-New%20Updata.png)
 
-# HECS Electronic | Pixel-X
+## HECS Electronic | Pixel-X
 ## Light Painting Equipment
 
 
